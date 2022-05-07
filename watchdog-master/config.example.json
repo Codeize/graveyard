@@ -1,0 +1,6 @@
+{
+    "prefix": "PREFIX",
+    "token": "TOKEN",
+    "owners": ["OWNER_ID(S)"],
+    "defaultPerms": ["MINIMUM_VIABLE_PERMS_THE_BOT_NEEDS. SEE https://discord.js.org/#/docs/main/stable/class/Permissions?scrollTo=s-FLAGS"]
+}
